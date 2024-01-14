@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-psi-nine-55.vercel.app/api?username=jamjamjon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-psi-nine-55.vercel.app/api/top-langs/?username=jamjamjon&layout=compact&theme=buefy&hide_border=true" /></a> |
-| -------------------- | ------------------------- |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-psi-nine-55.vercel.app/api/top-langs/?username=jamjamjon&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
